@@ -1,0 +1,118 @@
+#title {
+  background-color: #fff0f8;
+  margin-top: 50px;
+  height: auto;
+  width: auto;
+  text-align: center;
+}
+#info {
+  background-color: #ffc2e9;
+  height: auto;
+  width: auto;
+  text-align: center;
+  padding-bottom: 50px;
+}
+#place {
+  background-color: #cca2e1;
+  height: auto;
+  width: auto;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+#Agenda {
+  background-color: #543e5c;
+  height: auto;
+  width: auto;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+#we {
+  background-color: #cca2e1;
+  height: auto;
+  width: auto;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+#who {
+  padding-top: 100px;
+}
+#ada {
+  margin-left: 300px;
+}
+#Adrian {
+  margin-right: 300px;
+}
+#contact {
+  background-color: #543e5c;
+  height: auto;
+  width: auto;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+h1{
+  font-family: 'Thasadith', sans-serif;
+  font-size: 6rem;
+  color: #cca2e1;
+}
+h2{
+  font-family: 'Thasadith', sans-serif;
+  font-size: 3rem;
+  color: #fff0f8;
+}
+h3{
+  font-family: 'Thasadith', sans-serif;
+  font-size: 2rem;
+  color: #cca2e1;
+}
+h5{
+    font-family: 'Thasadith', sans-serif;
+    font-size: 1rem;
+    color: #cca2e1;
+}
+h6{
+    font-family: 'Thasadith', sans-serif;
+    font-size: 1rem;
+    color: #fff0f8;
+  }
+h7{
+  font-family: 'Thasadith', sans-serif;
+  font-size: 1.5rem;
+  color: #fff0f8;
+}
+.imiona{
+  padding-top: 200px;
+}
+.more{
+  padding-top: 130px;
+}
+#scrollplz-arrow{
+  color: #cca2e1;
+  margin-bottom: 50px;
+}
+.icons{
+  width: 50px;
+  height: 50px;
+}
+.places{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+hr{
+  border-style: dotted;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-width: 10px;
+  width: 50px;
+  height: 10px;
+  border-color: #fff0f8;
+}
+p{
+  font-family: 'Thasadith', sans-serif;
+  color: #fff0f8;
+}
